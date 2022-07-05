@@ -2,6 +2,13 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
+        <strong>This is my Vue playground.</strong>
+        <br />
+        <button class="btn btn-primary mb-1">Button 1</button><br />
+        <button class="btn btn-primary mb-1">Button 2</button><br />
+        <button class="btn btn-primary mb-1">Button 3</button><br />
+    </p>
+    <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
